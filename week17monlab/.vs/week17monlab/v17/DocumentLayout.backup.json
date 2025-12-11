@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\week17monlab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05C0C50-7185-49F1-BCA9-63F01D545BAB}|week17monlab.vcxproj|C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\GraphMatrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05C0C50-7185-49F1-BCA9-63F01D545BAB}|week17monlab.vcxproj|C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\GraphMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphMatrix.hpp",
+              "DocumentMoniker": "C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\GraphMatrix.hpp",
+              "RelativeDocumentMoniker": "..\\GraphMatrix.hpp",
+              "ToolTip": "C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\GraphMatrix.hpp",
+              "RelativeToolTip": "..\\GraphMatrix.hpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T06:58:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphMatrix.cpp",
+              "DocumentMoniker": "C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\GraphMatrix.cpp",
+              "RelativeDocumentMoniker": "..\\GraphMatrix.cpp",
+              "ToolTip": "C:\\Users\\jahli\\Documents\\SchoolProjects\\week-17-mon-lab-Trp-Sleeze\\GraphMatrix.cpp",
+              "RelativeToolTip": "..\\GraphMatrix.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T06:57:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
